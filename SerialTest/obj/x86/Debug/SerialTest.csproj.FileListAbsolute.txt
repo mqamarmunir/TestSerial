@@ -1,0 +1,10 @@
+c:\users\murtaza mani\documents\visual studio 2010\Projects\SerialTest\SerialTest\bin\Debug\SerialTest.exe
+c:\users\murtaza mani\documents\visual studio 2010\Projects\SerialTest\SerialTest\bin\Debug\SerialTest.pdb
+c:\users\murtaza mani\documents\visual studio 2010\Projects\SerialTest\SerialTest\obj\x86\Debug\SerialTest.exe
+c:\users\murtaza mani\documents\visual studio 2010\Projects\SerialTest\SerialTest\obj\x86\Debug\SerialTest.pdb
+E:\Projects\Trees\SerialTest\SerialTest\obj\x86\Debug\SerialTest.exe
+E:\Projects\Trees\SerialTest\SerialTest\obj\x86\Debug\SerialTest.pdb
+E:\Projects\Trees\SerialTest\SerialTest\bin\Debug\SerialTest.exe
+E:\Projects\Trees\SerialTest\SerialTest\bin\Debug\SerialTest.pdb
+E:\Projects\Trees\SerialTest\SerialTest\bin\Debug\SerialTest.exe.config
+E:\Projects\Trees\SerialTest\SerialTest\obj\x86\Debug\SerialTest.csprojResolveAssemblyReference.cache

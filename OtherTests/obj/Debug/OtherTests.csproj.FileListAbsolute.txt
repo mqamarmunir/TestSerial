@@ -1,0 +1,9 @@
+E:\Projects\Trees\SerialTest\OtherTests\bin\Debug\OtherTests.exe.config
+E:\Projects\Trees\SerialTest\OtherTests\bin\Debug\OtherTests.exe
+E:\Projects\Trees\SerialTest\OtherTests\bin\Debug\OtherTests.pdb
+E:\Projects\Trees\SerialTest\OtherTests\obj\Debug\OtherTests.csprojResolveAssemblyReference.cache
+E:\Projects\Trees\SerialTest\OtherTests\obj\Debug\OtherTests.exe
+E:\Projects\Trees\SerialTest\OtherTests\obj\Debug\OtherTests.pdb
+E:\Projects\Trees\SerialTest\OtherTests\bin\Debug\log4net.dll
+E:\Projects\Trees\SerialTest\OtherTests\bin\Debug\log4net.xml
+E:\Projects\Trees\SerialTest\OtherTests\bin\Debug\log4net.config
